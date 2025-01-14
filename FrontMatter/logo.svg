@@ -3,8 +3,8 @@
 
 <svg
    width="760"
-   height="840"
-   viewBox="0 0 201.08333 222.24999"
+   height="761"
+   viewBox="0 0 201.08333 201.34817"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -28,7 +28,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.72960859"
-     inkscape:cx="376.22912"
+     inkscape:cx="375.54382"
      inkscape:cy="384.45271"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
@@ -56,15 +56,4 @@
        x="-25.892874"
        y="22.93564"
        clip-path="url(#clipPath4)"
-       transform="matrix(1.0318303,0,0,1.0318303,-9.7391639,-60.17285)" /><text
-       xml:space="preserve"
-       style="font-size:28.9244px;line-height:1.25;font-family:sans-serif;stroke-width:0.338957"
-       x="58.256832"
-       y="281.16962"
-       id="text1"
-       transform="scale(1.2810997,0.78057936)"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.9244px;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif';stroke-width:0.338957"
-         x="58.256832"
-         y="281.16962">A E</tspan></text></g></svg>
+       transform="matrix(1.0318303,0,0,1.0318303,-9.7391639,-60.17285)" /></g></svg>
